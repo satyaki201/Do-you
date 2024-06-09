@@ -3,11 +3,12 @@ var y = document.getElementById("no");
 var img = document.getElementById("im");
 var c=0;
 if(!c){
-setTimeout(function() { alert("my message"); }, 10000);
+setTimeout(function() { alert("Why So Much Time"); }, 10000);
 }
 function accha()
 {
     c=1;
+    alert("Good Decision!!");
 }
 img.style.zIndex = 0;
 y.style.zIndex = 9999;
