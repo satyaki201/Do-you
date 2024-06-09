@@ -1,7 +1,6 @@
 var k = document.getElementById("yes");
 var y = document.getElementById("no");
 var img = document.getElementById("im");
-alert("blue blood");
 var c=0;
 if(!c){
 setTimeout(function() { alert("Why So Much Time"); }, 10000);
