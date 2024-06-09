@@ -1,8 +1,8 @@
 var k = document.getElementById("yes");
 var y = document.getElementById("no");
 var img = document.getElementById("im");
-img.style.height="100px";
-img.style.width="200px";
+img.style.height="300px";
+img.style.width="400px";
 var c=0;
 if(!c){
 setTimeout(function() { alert("Why So Much Time"); }, 10000);
