@@ -1,7 +1,11 @@
 var k = document.getElementById("yes");
 var y = document.getElementById("no");
 var img = document.getElementById("im");
+c=0;
+
+if(c){
 setTimeout(function() { alert("my message"); }, 10000);
+}
 
 img.style.zIndex = 0;
 y.style.zIndex = 9999;
