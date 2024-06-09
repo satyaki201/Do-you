@@ -1,6 +1,7 @@
 var k = document.getElementById("yes");
 var y = document.getElementById("no");
 var img = document.getElementById("im");
+setTimeout(function() { alert("my message"); }, 1000);
 
 img.style.zIndex = 0;
 y.style.zIndex = 9999;
