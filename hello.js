@@ -9,7 +9,7 @@ function accha()
 {
     c=1;
     alert("Good Decision!!");
-    img.src="/couldbeus.png"
+    img.src="couldbeus.png"
 }
 img.style.zIndex = 0;
 y.style.zIndex = 9999;
