@@ -3,7 +3,7 @@ var y = document.getElementById("no");
 var img = document.getElementById("im");
 var c=0;
 if(!c){
-setTimeout(function() { console.log("Why So Much Time"); }, 10000);
+setTimeout(function() { alert("Why So Much Time"); }, 10000);
 }
 function accha()
 {
